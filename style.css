@@ -1,0 +1,116 @@
+body{
+ background: url(https://e0.pxfuel.com/wallpapers/325/555/desktop-wallpaper-homer-duff-by-zelestin0-6d-in-2020-homer-simpson-the-simpsons-simpson-iphone-simpsons-beer-thumbnail.jpg);
+}
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color :white;
+border: 2px rgb(72, 67, 67) solid;
+}
+h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h2:hover{
+transform: scale(1.2);
+transition: .5s;
+}
+
+p{
+    color: white;
+}
+ img{
+ width: 50px;
+ background-color: yellow;
+ border-radius: 10px;
+ border :1px black solid;
+
+}
+img:hover {
+    opacity: .5;
+    color: #213547;
+}
+
+article{
+border: 5px black solid;
+padding: 10px;
+margin-top: 20px;
+background-color: brown; 
+width: 600px; 
+}
+
+#beers{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+selection {
+    background-color: yellow;
+    color: black;
+}
+
+/* ---------------------------------------------------- */
+
+
+#btn-recherche{
+    background: black;
+    color: white;
+
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#search{
+    width: 350px;
+    height: 50px;
+    color: brown;
+    font-weight: bolder;
+    font-size: 20px;
+    border-radius: 5px;
+    border:5px solid brown;
+}
+
+#page2{
+    background-image: none;
+    background-color: black;
+   
+}
+
+.fond{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+
+.fond img{
+    width: 200px;
+    border:5px solid brown;
+   
+}
+
+.article2{
+border: 5px brown solid;
+padding: 10px;
+margin-top: 20px;
+background-color: black; 
+width: 600px; 
+}
+
+.article2 img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
